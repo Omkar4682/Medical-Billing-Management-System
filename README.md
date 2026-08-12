@@ -6,7 +6,7 @@ A desktop-based Medical Billing Management System developed to simplify pharmacy
 
 # 📌 Project Overview
 
-The Medical Billing Management System is designed to automate the day-to-day activities of a medical store. It reduces manual work and provides an easy way to manage medicines, purchases, sales, and billing operations.
+The Medical Billing Management System is designed to automate the every Day activities of a medical store. It reduces manual work and provides an easy way to manage medicines, purchases, sales, and billing operations.
 
 The system allows users to:
 
