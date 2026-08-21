@@ -1,4 +1,4 @@
-# 💊 Medical Billing Management System
+# 💊 Medical Billing Management System.
 
 A desktop-based Medical Billing Management System developed to simplify pharmacy operations such as medicine management, billing, sales, purchases, and invoice generation. The system helps medical store owners maintain medicine records, track inventory, and generate bills efficiently.
 
