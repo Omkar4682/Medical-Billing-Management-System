@@ -8,7 +8,7 @@ public class Dashboard extends JFrame {
     public Dashboard() {
         setTitle("Dashboard - Medical Billing System");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setExtendedState(JFrame.MAXIMIZED_BOTH); // Fullscreen
+        setExtendedState(JFrame.MAXIMIZED_BOTH); // Fullscreen  fit to window
         setLayout(new BorderLayout());
 
         
