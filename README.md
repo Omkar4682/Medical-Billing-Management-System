@@ -13,7 +13,7 @@ The system allows users to:
 * Add new medicines to the inventory.
 * View available medicines.
 * Purchase medicines from suppliers and increse the stock.
-* Sell medicines to customers decrese the stock.
+* Sell medicines to decrese the stock.
 * Generate invoices and billing receipts.
 * Manage stock automatically after sales and purchases.
 
